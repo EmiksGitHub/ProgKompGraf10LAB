@@ -1,0 +1,17 @@
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Shuvalov_Roman_PRI_118_lab_10.exe.config
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Shuvalov_Roman_PRI_118_lab_10.exe
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Shuvalov_Roman_PRI_118_lab_10.pdb
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Tao.FreeGlut.dll
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Tao.OpenGl.dll
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Tao.Platform.Windows.dll
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Tao.FreeGlut.xml
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Tao.OpenGl.xml
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\bin\Debug\Tao.Platform.Windows.xml
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.csproj.AssemblyReference.cache
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.Form1.resources
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.Properties.Resources.resources
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.csproj.GenerateResource.cache
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.csproj.CoreCompileInputs.cache
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.csproj.CopyComplete
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.exe
+C:\Files\Edu\Studies\8Sem\ПрКГ\Лаб 10\app\Shuvalov_Roman_PRI_118_lab_10\obj\Debug\Shuvalov_Roman_PRI_118_lab_10.pdb
